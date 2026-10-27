@@ -1,0 +1,23 @@
+{
+  "HOG_SVM": {
+    "accuracy_test": 0.034639778825825335,
+    "precision_macro": 0.04757966680645716,
+    "recall_macro": 0.03889408050663347,
+    "f1_macro": 0.03689122556027182,
+    "training_time_seconds": 141.32244038581848
+  },
+  "CNN_scratch": {
+    "accuracy_test": 0.014961782842874527,
+    "precision_macro": 0.005341531826542626,
+    "recall_macro": 0.010388911662225867,
+    "f1_macro": 0.0007850990334187152,
+    "training_time_seconds": 40.64690613746643
+  },
+  "MobileNetV2": {
+    "accuracy_test": 0.7851683497428894,
+    "precision_macro": 0.7679061034390496,
+    "recall_macro": 0.8065585304412591,
+    "f1_macro": 0.7803263524413736,
+    "training_time_seconds": 158.40379762649536
+  }
+}
